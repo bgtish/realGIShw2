@@ -1,30 +1,92 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projections</title>
-</head>
+<meta charset="utf-8"/>
+
+<body style="background-color:#D9A9F5;
+    border: 0px;
+    margin: 0px auto;">
+
+<style>
+
+	a {
+	color:#261C2E;
+	font-family: Georgia (serif);
+	font-size: 30px;
+	margin-left: 1px;
+	padding: 25px
+	}
+
+  .header-img {
+    width: 100%;
+    height: 320px;
+    background: url('https://ibb.co/VSmFZR4');
+    background-size: cover;
+  }
+
+  .first-txt {
+		color:white;
+		font-family: Georgia (serif);
+		font-size: 95px;
+						position: absolute;
+            top: 75px;
+            left: 175px;
+        }
+
+        p {
+        color:#261C2E;
+        font-family: Courier bold;
+        text-align: center;
+        font-size: 30px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 175px;
+        margin-left: 175px;
+        }
+
+        footer {
+          display: block;
+          font-size: 15px;
+          background-color: white;
+        }
+
+	</style>
+
+
+
+
+
 <body>
-    <h1>In this project I learned how to display images in different projections</h1>
-    
-    <h2 style="color:red">Describe in your own words how you displayed the map in different projections using QGIS</h2>
-    <p>You can write a paragraph here</p>
-    
-    <h2>WGS84 Projection</h2>
-    <h3>Some observations</h3>
-    <a href=".//maps/4326.png">
-    <img src=".//maps/4326.png" alt="WGS84" width='500px'>
-    </a>
-    <h2>Aitoff Projection</h2>
-    <h3>Some observations</h3>
-    <a href=".//maps/54043.png">
-    <img src=".//maps/54043.png" alt="Aitoff" width='500px'>
-    </a>
-    <h2 style="color:red">Now, you should <u>add the following projections on your own:</u></h2>
-    <h3>EPSG: 3857, 53018, 54034, 54027, 102016, and two additional projections that you choose.</h3>
-    <p></p>
-    <h2>Data used for this project</h2>
-    <a href="https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_countries.zip"> Download Natrual Earth 1:10m Cultural Vector </a>
+
+<br>
+<b> <a href="https://gisunc.github.io/GEOG370Fall2022/homework/homework02.html"style="text-decoration: none;color: white">GEOG 370 Homework 2</a><a style="text-decoration: none;">By: Bettye Tish</a> </b>
+
+<br>
+<br>
+
+<main>
+    <div
+		class="header-img">
+		<h3 class="first-txt">
+					 Visualizing My Hometown
+        <br>
+		<center> <img src="https://lh3.googleusercontent.com/eYkMfDSOhG58Unr_xRzKOOjsUc3OB7In-sb1lE6YZqxMpccGv1Wa-gHG2pkCnb8SJa3f3sDuvX_x_SO9CpZUZxk4MUL5Ixcjp0N2QhUHK4ByfVhvcbRe9nCx_9Nj6eB86ks3oslwpBM=w2400"
+			      width="50"
+			      height="auto"/>
+          </center>
+</main>
+
+<center>
+<a href="https://ibb.co/db9HyST"><img src="https://i.ibb.co/DGXjnNJ/GISHW2-Hometown2.png" alt="GISHW2-Hometown2" border="0" width="1400"></a><br /><a target='_blank' href='https://imgbb.com/'/a><br />
+</center>
+<br>
+<br>
+<br>
+
+<
+
 </body>
+
+
 </html>
