@@ -10,8 +10,8 @@
     
     <h2 style="color:#D9A9F5">By: Bettye Tish</h2>
 
-    <a href=".//maps/54043.png">
-    <img src=".//maps/54043.png" alt="Aitoff" width='1000px'>
+    <a href=".//GISHW2_Hometown2.png"> 
+    <img src=".//GISHW2_Hometown2.png" alt="Aitoff" width='1000px'>
     </a>
 
     <p></p>
